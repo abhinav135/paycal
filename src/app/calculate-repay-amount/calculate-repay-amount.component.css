@@ -90,3 +90,7 @@
     display: grid;
     float: right;
   }
+
+  .buttonColor {
+    background-color: #8c52ff;
+  }
